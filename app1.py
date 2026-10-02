@@ -1,3 +1,5 @@
+# Algoritmo simples
+
 # Recebe o nome do usuário na variável
 name = input("Qual seu nome? ")
 

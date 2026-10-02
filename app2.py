@@ -1,7 +1,7 @@
+# Entrada do usuário
 
 name = input("Qual seu nome? ")
 age = int(input("Qual sua idade? "))
-
 
 print(type(name))
 print(type(age))

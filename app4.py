@@ -1,3 +1,5 @@
+# Usando métodos de 'strings'. Ex.: str.lower()
+
 import os
 
 # Define o valor das variáveis

@@ -1,3 +1,4 @@
+# Tomando decisões com 'if elif else'
 
 age = 22
 has_invitation = False

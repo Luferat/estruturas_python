@@ -1,6 +1,7 @@
 import os
 os.system('cls')
 
+# Dicionário de dicionários
 pessoas = {
     'p1': { 'nome': 'Maria', 'idade': 45, 'conceito': 'A' },
     'p2': { 'idade': 54, 'nome': 'Joca',  'conceito': 'I'},

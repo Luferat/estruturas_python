@@ -1,7 +1,11 @@
+# Coleção de coleções
+
 import os
 
 os.system('cls')
 
+
+# Uma lista de tuplas
 alunas = [
     ('Maria', '2000-10-14', 'A'),
     ('Joana', '1997-08-10', 'a'),
@@ -16,8 +20,9 @@ print(alunas[1][0] + ' nasceu em ' + alunas[1][1])
 print(alunas[1][0], 'nasceu em', alunas[1][1])
 '''
 
+
+# Iterando
 for aluna in alunas:
 
     if aluna[2].upper() == 'A':
         print(f'{aluna[0]} nasceu em {aluna[1]} e tem conceito {aluna[2]}')
-

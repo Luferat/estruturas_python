@@ -1,3 +1,5 @@
+# Tipos de dados nas coleções
+
 import os
 
 os.system("cls")

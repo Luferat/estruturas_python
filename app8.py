@@ -1,3 +1,5 @@
+# Strings também são coleções
+
 fruta = 'banana'
 
 for letra in fruta:

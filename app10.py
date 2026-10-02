@@ -3,6 +3,7 @@
 import os
 os.system('cls')
 
+# Um conjunto e os tipos de dados
 conj = {
     'casa',
     "peteca",
