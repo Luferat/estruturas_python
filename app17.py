@@ -1,5 +1,8 @@
 # Testes com while e break
 
+import os
+os.system('cls')
+
 contador = 1
 
 while contador <= 10:
